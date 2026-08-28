@@ -96,10 +96,10 @@ Browse every public repo on my profile.
 
 ```text
 Languages    Python · HTML · CSS · JavaScript
-Backend      Flask · SQLAlchemy · Auth (email + Google OAuth)
+Backend      Flask ·Django· SQLAlchemy · Auth (email + Google OAuth)
 Frontend     Vanilla JS · Chart.js · Responsive CSS
 Tools        Git · Docker · Gunicorn · Render
-Databases    SQLite · PostgreSQL
+Databases    SQLite · PostgreSQL · MySQL ·MariaDb · Mongodb
 ```
 
 ---
