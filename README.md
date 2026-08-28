@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div align="center">
 
 # Hi, I'm Hillary 👋
@@ -10,24 +12,33 @@
 
 <br>
 
-**Navigate** · [About](#-about-me) · [Projects](#-featured-projects) · [Tech](#-tech-i-work-with) · [Stats](#-github-stats) · [Contact](#-contact)
+**Navigate** ·
+[About](#about) ·
+[Projects](#projects) ·
+[Tech](#tech) ·
+[Stats](#stats) ·
+[Contact](#contact)
 
 </div>
 
 ---
+
+<a id="about"></a>
 
 ### 👤 About me
 
 I'm a passionate software developer pursuing a **Bachelor's degree in Information Technology**.  
 I enjoy turning ideas into working apps — from carbon footprint tools to community platforms.
 
-- 🔭 Currently building full-stack web apps with **Python / Flask**, HTML, CSS & JavaScript  
-- 🌱 Learning modern web development, APIs, auth, Docker & deployment  
-- 💡 Interested in climate-tech, community platforms & clean, usable UI  
-- 📫 Reach me: [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com)  
+- 🔭 **Currently working on:** [**nest-network**](https://github.com/hillarymusika-cell/nest-network) — a Christian community platform (Python learning project)
+- 🌱 Learning modern web development, APIs, auth, Docker & deployment
+- 💡 Interested in climate-tech, community platforms & clean, usable UI
+- 📫 Reach me: [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com)
 - ⚡ Fun fact: I ship projects that solve real problems (and look good while doing it)
 
 ---
+
+<a id="projects"></a>
 
 ### 🚀 Featured projects
 
@@ -35,23 +46,23 @@ I enjoy turning ideas into working apps — from carbon footprint tools to commu
 <tr>
 <td width="50%" valign="top">
 
+#### Nest Network <sup>Current</sup>
+Christian community platform built as part of my Python learning path.
+
+**Stack:** Python · backend · frontend
+
+[Repo →](https://github.com/hillarymusika-cell/nest-network)
+
+</td>
+<td width="50%" valign="top">
+
 #### Cosmic Carbon Calculator
 Full-stack carbon footprint estimator with auth, charts, history & live demo.
 
 **Stack:** Flask · SQLAlchemy · Chart.js · Docker
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/hillarymusika-cell/carboncalculator_project)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7D2?style=flat-square)](https://carboncalculator-project.onrender.com/auth/login)
-
-</td>
-<td width="50%" valign="top">
-
-#### Nest Network
-Christian community platform — part of my Python learning path.
-
-**Stack:** Python · Flask (backend) · Frontend
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/hillarymusika-cell/nest-network)
+[Repo →](https://github.com/hillarymusika-cell/carboncalculator_project)  
+[Live demo →](https://carboncalculator-project.onrender.com/auth/login)
 
 </td>
 </tr>
@@ -63,21 +74,23 @@ Collection of Python experiments & learning code.
 
 **Stack:** Python
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/hillarymusika-cell/pythonprojects)
+[Repo →](https://github.com/hillarymusika-cell/pythonprojects)
 
 </td>
 <td width="50%" valign="top">
 
-#### More on GitHub
-Browse all public repositories.
+#### All repositories
+Browse every public repo on my profile.
 
-[![All Repos](https://img.shields.io/badge/All_Repos-181717?style=flat-square&logo=github)](https://github.com/hillarymusika-cell?tab=repositories)
+[All repos →](https://github.com/hillarymusika-cell?tab=repositories)
 
 </td>
 </tr>
 </table>
 
 ---
+
+<a id="tech"></a>
 
 ### 🛠 Tech I work with
 
@@ -91,6 +104,8 @@ Databases    SQLite · PostgreSQL
 
 ---
 
+<a id="stats"></a>
+
 ### 📊 GitHub stats
 
 <div align="center">
@@ -100,14 +115,17 @@ Databases    SQLite · PostgreSQL
 
 ---
 
+<a id="contact"></a>
+
 ### 📫 Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
+[Email](mailto:hillarymusika@gmail.com) ·
+[GitHub profile](https://github.com/hillarymusika-cell) ·
+[Current project: nest-network](https://github.com/hillarymusika-cell/nest-network)
 
-**Thanks for visiting!** · [↑ Back to top](#hi-im-hillary-)
+**Thanks for visiting!** · [↑ Back to top](#top)
 
 ⭐ Star a project if you find it useful
 
