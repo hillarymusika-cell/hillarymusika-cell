@@ -2,20 +2,19 @@
 
 <div align="center">
 
-# Hi, I'm Hillary
+# Hillary Musika
 
-**Software Developer · IT Student · Building useful tools**
+**Full-Stack Developer · Python / Flask / Django**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
-[![Hireable](https://img.shields.io/badge/Available%20for%20hire-yes-2ea44f?style=for-the-badge)](https://github.com/hillarymusika-cell)
 [![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
-
-<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B265750950894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265750950894)
+[![Hireable](https://img.shields.io/badge/Open%20to%20work-yes-2ea44f?style=for-the-badge)](mailto:hillarymusika@gmail.com)
 
 **Navigate** ·
 [About](#about) ·
 [Projects](#projects) ·
-[Tech](#tech) ·
+[Tech Stack](#tech) ·
 [Stats](#stats) ·
 [Contact](#contact)
 
@@ -25,44 +24,65 @@
 
 <a id="about"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/user-male-circle.png" width="22" height="22" alt=""/> About me
+### <img src="https://img.icons8.com/ios-filled/24/4a90e2/user-male-circle.png" width="22" height="22" alt=""/> About
 
-I'm a passionate software developer pursuing a **Bachelor's degree in Information Technology**.  
-I enjoy turning ideas into working apps — from carbon footprint tools to community platforms.
+I'm a full-stack developer building web and desktop applications with Python, Flask, and Django — from carbon-tracking tools to community platforms for organizations. I design and ship complete products: data models, authentication, APIs, and the front-end that ties it together.
 
-- <img src="https://img.icons8.com/ios-filled/16/4a90e2/source-code.png" width="14" height="14" alt=""/> **Currently working on:** [**nest-network**](https://github.com/hillarymusika-cell/nest-network) — a Christian community platform (Python learning project)
-- <img src="https://img.icons8.com/ios-filled/16/4a90e2/book.png" width="14" height="14" alt=""/> Learning modern web development, APIs, auth, Docker & deployment
-- <img src="https://img.icons8.com/ios-filled/16/4a90e2/idea.png" width="14" height="14" alt=""/> Interested in climate-tech, community platforms & clean, usable UI
-- <img src="https://img.icons8.com/ios-filled/16/4a90e2/new-post.png" width="14" height="14" alt=""/> Reach me: [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com)
-- <img src="https://img.icons8.com/ios-filled/16/4a90e2/lightning-bolt.png" width="14" height="14" alt=""/> Fun fact: I ship projects that solve real problems (and look good while doing it)
+- **Currently building:** [N.E.S.T. Network](https://github.com/hillarymusika-cell/nest-network) — a Django platform for a youth ministry organization, including a custom auth system and content management
+- **Focus areas:** backend architecture, authentication (including OAuth), database design, and deployment
+- **Interests:** climate-tech, community platforms, and clean, usable interfaces
+- **Notable habit:** I prefer bringing client ideas into reality using all available resources 
+- **Contact:** [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com) · [+265 750 950 894](https://wa.me/265750950894) (WhatsApp)
 
 ---
 
 <a id="projects"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/repository.png" width="22" height="22" alt=""/> Featured projects
+### <img src="https://img.icons8.com/ios-filled/24/4a90e2/repository.png" width="22" height="22" alt=""/> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Nest Network <sup>Current</sup>
-Christian community platform built as part of my Python learning path.
+#### N.E.S.T. Network <sup>In Progress</sup>
+Django platform built for a youth ministry organization, with a custom authentication system, blog/news publishing, and a black-and-gold design system.
 
-**Stack:** Python · backend · frontend
+**Stack:** Django · Python · HTML/CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/nest-network)
 
 </td>
 <td width="50%" valign="top">
 
-#### Cosmic Carbon Calculator
-Full-stack carbon footprint estimator with auth, charts, history & live demo.
+#### Carbon Footprint Calculator
+Full-stack carbon footprint estimator with email and Google OAuth login, an object-oriented emissions engine (electricity, fuel, diet, transport, and more), and Chart.js dashboards.
 
-**Stack:** Flask · SQLAlchemy · Chart.js · Docker
+**Stack:** Flask · SQLAlchemy · PostgreSQL · Chart.js · Docker
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/carboncalculator_project)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7D2?style=flat-square&logo=vercel&logoColor=white)](https://carboncalculator-project.onrender.com/auth/login)
+[![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carboncalculator-project.onrender.com/auth/login)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Movie Zone
+Streaming-style browsing site built on the TMDB API, with a cinema-marquee visual theme and a custom video player supporting YouTube/Vimeo sources with seek, volume, and fullscreen controls.
+
+**Stack:** JavaScript · HTML/CSS · TMDB API
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+#### Developer Portfolio
+Personal portfolio site with a glassmorphic design system, custom typography, and interactive JavaScript touches like animated backgrounds and a project image gallery.
+
+**Stack:** HTML/CSS · JavaScript
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
 
 </td>
 </tr>
@@ -70,7 +90,7 @@ Full-stack carbon footprint estimator with auth, charts, history & live demo.
 <td width="50%" valign="top">
 
 #### Python Projects
-Collection of Python experiments & learning code.
+Collection of Python experiments, tools, and learning exercises, including a CustomTkinter desktop authentication app.
 
 **Stack:** Python
 
@@ -79,8 +99,8 @@ Collection of Python experiments & learning code.
 </td>
 <td width="50%" valign="top">
 
-#### All repositories
-Browse every public repo on my profile.
+#### All Repositories
+Browse every public repository on my profile.
 
 [![All Repos](https://img.shields.io/badge/All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
 
@@ -92,7 +112,7 @@ Browse every public repo on my profile.
 
 <a id="tech"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/settings.png" width="22" height="22" alt=""/> Tech I work with
+### <img src="https://img.icons8.com/ios-filled/24/4a90e2/settings.png" width="22" height="22" alt=""/> Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -115,7 +135,7 @@ Browse every public repo on my profile.
 Languages    Python · HTML · CSS · JavaScript
 Backend      Flask · Django · SQLAlchemy · Auth (email + Google OAuth)
 Frontend     Vanilla JS · Chart.js · Responsive CSS
-Tools        Git · Docker · Gunicorn · Render
+Tools        Git · Docker · Gunicorn · Render · Termux (mobile dev)
 Databases    SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
 ```
 
@@ -123,7 +143,7 @@ Databases    SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
 
 <a id="stats"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/combo-chart.png" width="22" height="22" alt=""/> GitHub stats
+### <img src="https://img.icons8.com/ios-filled/24/4a90e2/combo-chart.png" width="22" height="22" alt=""/> GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
@@ -139,11 +159,9 @@ Databases    SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B265750950894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265750950894)
 [![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
-[![nest-network](https://img.shields.io/badge/Current-nest--network-4a90e2?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell/nest-network)
 
 **Thanks for visiting!** · [Back to top](#top)
-
-[![Star](https://img.shields.io/badge/Star_a_project-if_you_find_it_useful-yellow?style=flat-square&logo=github)](https://github.com/hillarymusika-cell?tab=repositories)
 
 </div>
