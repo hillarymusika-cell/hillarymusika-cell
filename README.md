@@ -1,10 +1,13 @@
 <a id="top"></a>
 
 <div align="center">
+<p align="center">
+  <img src="animation.svg"
+       alt="Welcome animated heading"
+       width="100%">
+</p>
 
-# Hillary Musika
-
-**Full-Stack Developer · Python / Flask / Django**
+Full-Stack Developer · Python / Flask / Django**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
 [![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
@@ -28,12 +31,15 @@
 
 I'm a full-stack developer building web and desktop applications with Python, Flask, and Django — from carbon-tracking tools to community platforms for organizations. I design and ship complete products: data models, authentication, APIs, and the front-end that ties it together.
 
-- **Currently building:** [N.E.S.T. Network](https://github.com/hillarymusika-cell/nest-network) — a Django platform for a youth ministry organization, including a custom auth system and content management
-- **Focus areas:** backend architecture, authentication (including OAuth), database design, and deployment
-- **Interests:** climate-tech, community platforms, and clean, usable interfaces
-- **Notable habit:** I prefer bringing client ideas into reality using all available resources 
-- **Contact:** [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com) · [+265 750 950 894](https://wa.me/265750950894) (WhatsApp)
-
+- **Currently focusing on:**  Internet of Things development with C++ and Arduino development 
+- **Focus areas:** system logic implementation, backend architecture, authentication (including OAuth), database design, and deployment
+- **Interests:** Agro-tech, climate-tech, community platforms, and clean, usable interfaces
+- **Notable habit:** I prefer implementation of logic blocks, building scalable systems & learning new ideas
+- **Hobby:** Gaming & Music 
+- **Contact me on**
+- **Gmail:** [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com)
+- **WhatsApp:**[+265 750 950 894](https://wa.me/265750950894)
+- **Twitter:**[@hillarymusika](https://x.com/MusikaHillary)
 ---
 
 <a id="projects"></a>
@@ -44,10 +50,10 @@ I'm a full-stack developer building web and desktop applications with Python, Fl
 <tr>
 <td width="50%" valign="top">
 
-#### N.E.S.T. Network <sup>In Progress</sup>
+#### N.E.S.T. Network
 Django platform built for a youth ministry organization, with a custom authentication system, blog/news publishing, and a black-and-gold design system.
 
-**Stack:** Django · Python · HTML/CSS · JavaScript
+**Stack:** Django framework/Python · HTML/CSS · JavaScript
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/nest-network)
 
@@ -112,10 +118,12 @@ Browse every public repository on my profile.
 
 <a id="tech"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/settings.png" width="22" height="22" alt=""/> Tech Stack
+### <img src="https://img.icons8.com/ios-filled/24/4a90e2/settings.png" width="22" height="22" alt="Settings icon"/> Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -142,13 +150,24 @@ Databases    SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
 ---
 
 <a id="stats"></a>
-
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/combo-chart.png" width="22" height="22" alt=""/> GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&amp;show_icons=true&amp;include_all_commits=true&amp;hide=issues&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub statistics" />
+<img src="https://streak-stats.demolab.com/?user=hillarymusika-cell&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub contribution streak" />
+</div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillarymusika-cell&amp;theme=tokyonight" width="100%" alt="GitHub profile details" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="Languages used across repositories" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hillarymusika-cell&amp;theme=tokyonight" width="49%" alt="GitHub profile statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillarymusika-cell&amp;theme=tokyonight&amp;utcOffset=3" width="49%" alt="Productive coding time" />
+</div>
+
 
 ---
 

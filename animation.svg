@@ -1,0 +1,393 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 280"
+     width="100%"
+     height="auto"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-label="Hi, I am Hillary Musika">
+
+  <defs>
+    <linearGradient id="nameGradient"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+      <stop offset="0%" stop-color="#4da3ff"/>
+      <stop offset="50%" stop-color="#9bd3ff"/>
+      <stop offset="100%" stop-color="#4da3ff"/>
+    </linearGradient>
+
+    <linearGradient id="shineGradient"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity=".8"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow"
+            x="-50%"
+            y="-50%"
+            width="200%"
+            height="200%">
+      <feGaussianBlur stdDeviation="2.5"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="nameGlow"
+            x="-30%"
+            y="-50%"
+            width="160%"
+            height="200%">
+      <feGaussianBlur stdDeviation="4"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+
+    .intro {
+      font-family:
+        Inter,
+        "Segoe UI",
+        Arial,
+        sans-serif;
+      font-size: 34px;
+      font-weight: 400;
+      letter-spacing: 7px;
+      fill: #b9d8f5;
+      text-anchor: middle;
+    }
+
+    .name {
+      font-family:
+        Inter,
+        "Segoe UI",
+        Arial,
+        sans-serif;
+      font-size: 65px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: url(#nameGradient);
+      text-anchor: middle;
+    }
+
+    .intro-letter {
+      opacity: 0;
+      transform-box: fill-box;
+      transform-origin: center;
+
+      animation:
+        introReveal
+        6s
+        cubic-bezier(.22, 1, .36, 1)
+        infinite;
+    }
+
+    @keyframes introReveal {
+
+      0% {
+        opacity: 0;
+        transform:
+          translateY(18px)
+          scale(.96);
+      }
+
+      10% {
+        opacity: 1;
+        transform:
+          translateY(0)
+          scale(1);
+      }
+
+      72% {
+        opacity: 1;
+        transform:
+          translateY(0)
+          scale(1);
+      }
+
+      84% {
+        opacity: 0;
+        transform:
+          translateY(-10px)
+          scale(1.02);
+      }
+
+      100% {
+        opacity: 0;
+        transform:
+          translateY(18px)
+          scale(.96);
+      }
+    }
+
+    .name-letter {
+      opacity: 0;
+      transform-box: fill-box;
+      transform-origin: center;
+
+      animation:
+        nameReveal
+        6s
+        cubic-bezier(.22, 1, .36, 1)
+        infinite;
+    }
+
+    @keyframes nameReveal {
+
+      0% {
+        opacity: 0;
+        transform:
+          translateY(35px)
+          scale(.96);
+      }
+
+      6% {
+        opacity: 0;
+      }
+
+      16% {
+        opacity: 1;
+        transform:
+          translateY(-4px)
+          scale(1.01);
+      }
+
+      22% {
+        transform:
+          translateY(0)
+          scale(1);
+      }
+
+      72% {
+        opacity: 1;
+        transform:
+          translateY(0)
+          scale(1);
+      }
+
+      84% {
+        opacity: 0;
+        transform:
+          translateY(-8px)
+          scale(.98);
+      }
+
+      100% {
+        opacity: 0;
+        transform:
+          translateY(35px)
+          scale(.96);
+      }
+    }
+
+    .shine {
+      opacity: 0;
+      animation:
+        shine
+        6s
+        ease-in-out
+        infinite;
+    }
+
+    @keyframes shine {
+
+      0%,
+      45% {
+        opacity: 0;
+        transform: translateX(-500px);
+      }
+
+      55% {
+        opacity: .7;
+      }
+
+      65% {
+        opacity: 0;
+        transform: translateX(500px);
+      }
+
+      100% {
+        opacity: 0;
+        transform: translateX(500px);
+      }
+    }
+
+    .intro-letter:nth-child(1) {
+      animation-delay: 0s;
+    }
+
+    .intro-letter:nth-child(2) {
+      animation-delay: .12s;
+    }
+
+    .intro-letter:nth-child(3) {
+      animation-delay: .24s;
+    }
+
+    .intro-letter:nth-child(4) {
+      animation-delay: .36s;
+    }
+
+    .intro-letter:nth-child(5) {
+      animation-delay: .48s;
+    }
+
+    .name-letter:nth-child(1) {
+      animation-delay: .65s;
+    }
+
+    .name-letter:nth-child(2) {
+      animation-delay: .72s;
+    }
+
+    .name-letter:nth-child(3) {
+      animation-delay: .79s;
+    }
+
+    .name-letter:nth-child(4) {
+      animation-delay: .86s;
+    }
+
+    .name-letter:nth-child(5) {
+      animation-delay: .93s;
+    }
+
+    .name-letter:nth-child(6) {
+      animation-delay: 1s;
+    }
+
+    .name-letter:nth-child(7) {
+      animation-delay: 1.07s;
+    }
+
+    .name-letter:nth-child(8) {
+      animation-delay: 1.20s;
+    }
+
+    .name-letter:nth-child(9) {
+      animation-delay: 1.27s;
+    }
+
+    .name-letter:nth-child(10) {
+      animation-delay: 1.34s;
+    }
+
+    .name-letter:nth-child(11) {
+      animation-delay: 1.41s;
+    }
+
+    .name-letter:nth-child(12) {
+      animation-delay: 1.48s;
+    }
+
+    .name-letter:nth-child(13) {
+      animation-delay: 1.55s;
+    }
+
+    @media (max-width: 600px) {
+
+      .intro {
+        font-size: 29px;
+        letter-spacing: 5px;
+      }
+
+      .name {
+        font-size: 55px;
+        letter-spacing: 1px;
+      }
+    }
+
+    @media (max-width: 450px) {
+
+      .intro {
+        font-size: 24px;
+        letter-spacing: 4px;
+      }
+
+      .name {
+        font-size: 45px;
+      }
+    }
+
+    @media (max-width: 350px) {
+
+      .intro {
+        font-size: 21px;
+        letter-spacing: 3px;
+      }
+
+      .name {
+        font-size: 37px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      .intro-letter,
+      .name-letter,
+      .shine {
+        animation: none;
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+  </style>
+
+  <text class="intro"
+        x="450"
+        y="78"
+        filter="url(#softGlow)">
+
+    <tspan class="intro-letter" x="392">H</tspan>
+    <tspan class="intro-letter" x="420">I</tspan>
+
+    <tspan class="intro-letter" x="485">I</tspan>
+    <tspan class="intro-letter" x="535">A</tspan>
+    <tspan class="intro-letter" x="585">M</tspan>
+
+  </text>
+
+  <text class="name"
+        x="450"
+        y="185"
+        filter="url(#nameGlow)">
+
+    <tspan class="name-letter" x="135">H</tspan>
+    <tspan class="name-letter" x="195">I</tspan>
+    <tspan class="name-letter" x="255">L</tspan>
+    <tspan class="name-letter" x="315">L</tspan>
+    <tspan class="name-letter" x="375">A</tspan>
+    <tspan class="name-letter" x="435">R</tspan>
+    <tspan class="name-letter" x="495">Y</tspan>
+
+    <tspan class="name-letter" x="570">M</tspan>
+    <tspan class="name-letter" x="630">U</tspan>
+    <tspan class="name-letter" x="690">S</tspan>
+    <tspan class="name-letter" x="750">I</tspan>
+    <tspan class="name-letter" x="810">K</tspan>
+    <tspan class="name-letter" x="870">A</tspan>
+
+  </text>
+
+  <rect class="shine"
+        x="100"
+        y="125"
+        width="700"
+        height="2"
+        rx="1"
+        fill="url(#shineGradient)"/>
+
+</svg>
