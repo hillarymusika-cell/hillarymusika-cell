@@ -7,7 +7,7 @@
        width="100%">
 </p>
 
-Full-Stack Developer · Python / Flask / Django**
+Full-Stack Developer · Python / Flask / Django
 
 [![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
 [![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
