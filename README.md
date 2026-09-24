@@ -4,7 +4,7 @@
   <img src="animation.svg" alt="Welcome" width="100%">
 
   <h1>Hillary Musika</h1>
-  <p><strong>Full-Stack % IoT Developer</strong> · Python · Flask  Django·C++/C </p>
+  <p><strong>Full-Stack & IoT Developer</strong> · Python · Flask·Django·C++/C </p>
 
   <p>
     <a href="https://github.com/hillarymusika-cell">
