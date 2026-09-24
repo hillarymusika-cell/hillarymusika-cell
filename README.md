@@ -48,7 +48,7 @@ I build web & desktop applications with **Python, Flask, and Django**, and I'm c
 
 <a id="projects"></a>
 
-### Featured Projects
+### Projects
 
 <table>
 <tr>
@@ -61,6 +61,7 @@ Custom auth, blog/news publishing, black-and-gold design system.
 **Stack:** Django · Python · HTML/CSS · JavaScript  
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/nest-network)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://nestnetwork-xmp8.onrender.com)
 
 </td>
 <td width="50%" valign="top">
@@ -71,30 +72,29 @@ Full-stack carbon estimator with email + Google OAuth, OOP emissions engine, and
 **Stack:** Flask · SQLAlchemy · PostgreSQL · Chart.js · Docker  
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/carboncalculator_project)
-[![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carboncalculator-project.onrender.com/auth/login)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carboncalculator-project.onrender.com/auth/login)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### Movie Zone
-Streaming-style browser built on the TMDB API.  
-Cinema-marquee theme + custom video player (YouTube/Vimeo, seek, volume, fullscreen).
+#### Ecommerce
+Python-based ecommerce application — product catalog, cart, and checkout flow.
 
-**Stack:** JavaScript · HTML/CSS · TMDB API  
+**Stack:** Python  
 
-[![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/ecomerce)
 
 </td>
 <td width="50%" valign="top">
 
-#### Developer Portfolio
-Glassmorphic portfolio with custom typography, animated backgrounds, and project gallery.
+#### Portfolio
+Personal portfolio site with glassmorphic design, custom typography, and interactive UI.
 
-**Stack:** HTML/CSS · JavaScript  
+**Stack:** HTML · CSS · JavaScript  
 
-[![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/portfolio)
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ Glassmorphic portfolio with custom typography, animated backgrounds, and project
 <td width="50%" valign="top">
 
 #### Python Projects
-Collection of experiments and tools, including a CustomTkinter desktop authentication app.
+Collection of Python experiments and tools, including a CustomTkinter desktop auth app.
 
 **Stack:** Python · CustomTkinter  
 
@@ -111,14 +111,46 @@ Collection of experiments and tools, including a CustomTkinter desktop authentic
 </td>
 <td width="50%" valign="top">
 
-#### All Repositories
-Browse every public repository on my profile.
+#### Personal
+Personal experiments and utility scripts.
 
-[![All Repos](https://img.shields.io/badge/All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+**Stack:** —  
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/personal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Carbon Calculator (v1)
+Earlier iteration of the carbon emissions estimator.
+
+**Stack:** Python  
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/carboncalcutor)
+
+</td>
+<td width="50%" valign="top">
+
+#### Profile README
+This GitHub profile README (source of truth for the bio you are reading).
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/hillarymusika-cell)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><strong>Forks & learning resources</strong></summary>
+
+| Repo | Description |
+|------|-------------|
+| [Arduino](https://github.com/hillarymusika-cell/Arduino) | ESP8266 core for Arduino (fork) |
+| [Python-KIT](https://github.com/hillarymusika-cell/Python-KIT) | Curated Python learning resources & roadmaps (fork) |
+
+</details>
 
 ---
 
@@ -161,15 +193,26 @@ IoT           Arduino · C++
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&include_all_commits=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true" width="49%" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=hillarymusika-cell&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&include_all_commits=true&count_private=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillarymusika-cell&theme=tokyonight&utcOffset=3" width="49%" alt="Productive time"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=hillarymusika-cell&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hillarymusika-cell&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hillarymusika-cell&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub trophies"/>
 </div>
 
 ---
