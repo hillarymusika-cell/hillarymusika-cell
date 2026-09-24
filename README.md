@@ -192,27 +192,28 @@ IoT           Arduino · C++
 
 ### GitHub Stats
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/hillarymusika-cell?label=Followers&style=for-the-badge&color=181717" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/hillarymusika-cell?affiliations=OWNER&label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=hillarymusika-cell&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<br/>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&include_all_commits=true&count_private=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="GitHub stats" width="400"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=hillarymusika-cell&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top languages" width="400"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hillarymusika-cell&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hillarymusika-cell&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=hillarymusika-cell&theme=dark&hide_border=true" alt="GitHub streak" width="450"/>
 </div>
 
 ---
