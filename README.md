@@ -1,59 +1,64 @@
 <a id="top"></a>
 
 <div align="center">
-<p align="center">
-  <img src="animation.svg"
-       alt="Welcome animated heading"
-       width="100%">
-</p>
+  <img src="animation.svg" alt="Welcome" width="100%">
 
-Full-Stack Developer · Python / Flask / Django
+  <h1>Hillary Musika</h1>
+  <p><strong>Full-Stack Developer</strong> · Python · Flask · Django · IoT</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
-[![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B265750950894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265750950894)
-[![Hireable](https://img.shields.io/badge/Open%20to%20work-yes-2ea44f?style=for-the-badge)](mailto:hillarymusika@gmail.com)
+  <p>
+    <a href="https://github.com/hillarymusika-cell">
+      <img src="https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+    <a href="mailto:hillarymusika@gmail.com">
+      <img src="https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://wa.me/265750950894">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B265%20750%20950%20894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="mailto:hillarymusika@gmail.com">
+      <img src="https://img.shields.io/badge/Open%20to%20Work-yes-2ea44f?style=for-the-badge" alt="Open to work">
+    </a>
+  </p>
 
-**Navigate** ·
-[About](#about) ·
-[Projects](#projects) ·
-[Tech Stack](#tech) ·
-[Stats](#stats) ·
-[Contact](#contact)
-
+  <p>
+    <a href="#about">About</a> ·
+    <a href="#projects">Projects</a> ·
+    <a href="#tech">Tech Stack</a> ·
+    <a href="#stats">Stats</a> ·
+    <a href="#contact">Contact</a>
+  </p>
 </div>
 
 ---
 
 <a id="about"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/user-male-circle.png" width="22" height="22" alt=""/> About
+### About
 
-I'm a full-stack developer building web and desktop applications with Python, Flask, and Django — from carbon-tracking tools to community platforms for organizations. I design and ship complete products: data models, authentication, APIs, and the front-end that ties it together.
+Full-stack developer who designs and ships complete products — data models, authentication, APIs, and polished front-ends.  
+I build web & desktop applications with **Python, Flask, and Django**, and I'm currently expanding into **IoT with C++ and Arduino**.
 
-- **Currently focusing on:**  Internet of Things development with C++ and Arduino development 
-- **Focus areas:** system logic implementation, backend architecture, authentication (including OAuth), database design, and deployment
-- **Interests:** Agro-tech, climate-tech, community platforms, and clean, usable interfaces
-- **Notable habit:** I prefer implementation of logic blocks, building scalable systems & learning new ideas
-- **Hobby:** Gaming & Music 
-- **Contact me on**
-- **Gmail:** [hillarymusika@gmail.com](mailto:hillarymusika@gmail.com)
-- **WhatsApp:**[+265 750 950 894](https://wa.me/265750950894)
-- **Twitter:**[@hillarymusika](https://x.com/MusikaHillary)
+- **Focus:** Backend architecture, system logic, OAuth, database design, deployment
+- **Interests:** Agro-tech, climate-tech, community platforms, clean usable interfaces
+- **Currently learning:** IoT (C++ / Arduino)
+- **Hobbies:** Gaming & Music
+
 ---
 
 <a id="projects"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/repository.png" width="22" height="22" alt=""/> Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### N.E.S.T. Network
-Django platform built for a youth ministry organization, with a custom authentication system, blog/news publishing, and a black-and-gold design system.
+Django platform for a youth ministry organization.  
+Custom auth, blog/news publishing, black-and-gold design system.
 
-**Stack:** Django framework/Python · HTML/CSS · JavaScript
+**Stack:** Django · Python · HTML/CSS · JavaScript  
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/nest-network)
 
@@ -61,9 +66,9 @@ Django platform built for a youth ministry organization, with a custom authentic
 <td width="50%" valign="top">
 
 #### Carbon Footprint Calculator
-Full-stack carbon footprint estimator with email and Google OAuth login, an object-oriented emissions engine (electricity, fuel, diet, transport, and more), and Chart.js dashboards.
+Full-stack carbon estimator with email + Google OAuth, OOP emissions engine, and Chart.js dashboards.
 
-**Stack:** Flask · SQLAlchemy · PostgreSQL · Chart.js · Docker
+**Stack:** Flask · SQLAlchemy · PostgreSQL · Chart.js · Docker  
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/carboncalculator_project)
 [![Live](https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://carboncalculator-project.onrender.com/auth/login)
@@ -74,21 +79,22 @@ Full-stack carbon footprint estimator with email and Google OAuth login, an obje
 <td width="50%" valign="top">
 
 #### Movie Zone
-Streaming-style browsing site built on the TMDB API, with a cinema-marquee visual theme and a custom video player supporting YouTube/Vimeo sources with seek, volume, and fullscreen controls.
+Streaming-style browser built on the TMDB API.  
+Cinema-marquee theme + custom video player (YouTube/Vimeo, seek, volume, fullscreen).
 
-**Stack:** JavaScript · HTML/CSS · TMDB API
+**Stack:** JavaScript · HTML/CSS · TMDB API  
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
 #### Developer Portfolio
-Personal portfolio site with a glassmorphic design system, custom typography, and interactive JavaScript touches like animated backgrounds and a project image gallery.
+Glassmorphic portfolio with custom typography, animated backgrounds, and project gallery.
 
-**Stack:** HTML/CSS · JavaScript
+**Stack:** HTML/CSS · JavaScript  
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
+[![Repos](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell?tab=repositories)
 
 </td>
 </tr>
@@ -96,9 +102,9 @@ Personal portfolio site with a glassmorphic design system, custom typography, an
 <td width="50%" valign="top">
 
 #### Python Projects
-Collection of Python experiments, tools, and learning exercises, including a CustomTkinter desktop authentication app.
+Collection of experiments and tools, including a CustomTkinter desktop authentication app.
 
-**Stack:** Python
+**Stack:** Python · CustomTkinter  
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hillarymusika-cell/pythonprojects)
 
@@ -118,9 +124,9 @@ Browse every public repository on my profile.
 
 <a id="tech"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/settings.png" width="22" height="22" alt="Settings icon"/> Tech Stack
+### Tech Stack
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -140,47 +146,54 @@ Browse every public repository on my profile.
 </p>
 
 ```text
-Languages    Python · HTML · CSS · JavaScript
-Backend      Flask · Django · SQLAlchemy · Auth (email + Google OAuth)
-Frontend     Vanilla JS · Chart.js · Responsive CSS
-Tools        Git · Docker · Gunicorn · Render · Termux (mobile dev)
-Databases    SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
+Languages     Python · C++ · HTML · CSS · JavaScript
+Backend       Flask · Django · SQLAlchemy · OAuth (email + Google)
+Frontend      Vanilla JS · Chart.js · Responsive CSS
+Tools         Git · Docker · Gunicorn · Render · Termux
+Databases     SQLite · PostgreSQL · MySQL · MariaDB · MongoDB
+IoT           Arduino · C++
 ```
 
 ---
 
 <a id="stats"></a>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&amp;show_icons=true&amp;include_all_commits=true&amp;hide=issues&amp;rank_icon=github&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub statistics" />
-<img src="https://streak-stats.demolab.com/?user=hillarymusika-cell&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub contribution streak" />
-</div>
+
+### GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hillarymusika-cell&amp;theme=tokyonight" width="100%" alt="GitHub profile details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hillarymusika-cell&show_icons=true&include_all_commits=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true" width="49%" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=hillarymusika-cell&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak"/>
 </div>
+
+<br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="Languages used across repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarymusika-cell&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="49%" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillarymusika-cell&theme=tokyonight&utcOffset=3" width="49%" alt="Productive time"/>
 </div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hillarymusika-cell&amp;theme=tokyonight" width="49%" alt="GitHub profile statistics" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hillarymusika-cell&amp;theme=tokyonight&amp;utcOffset=3" width="49%" alt="Productive coding time" />
-</div>
-
 
 ---
 
 <a id="contact"></a>
 
-### <img src="https://img.icons8.com/ios-filled/24/4a90e2/new-post.png" width="22" height="22" alt=""/> Contact
+### Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hillarymusika@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B265750950894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265750950894)
-[![GitHub](https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github)](https://github.com/hillarymusika-cell)
+  <a href="mailto:hillarymusika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hillarymusika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/265750950894">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B265%20750%20950%20894-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://x.com/MusikaHillary">
+    <img src="https://img.shields.io/badge/X-@MusikaHillary-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://github.com/hillarymusika-cell">
+    <img src="https://img.shields.io/badge/GitHub-hillarymusika--cell-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 
-**Thanks for visiting!** · [Back to top](#top)
+  <br><br>
+  **Thanks for visiting!** · <a href="#top">Back to top</a>
 
 </div>
