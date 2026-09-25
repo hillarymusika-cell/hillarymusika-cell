@@ -39,7 +39,7 @@
 Full-stack developer who designs and ships complete products — data models, authentication, APIs, real time transactions and polished front-ends.  
 I build web & desktop applications with **Python, Flask, and Django**, and I'm currently expanding into **IoT with C++ and Arduino**.
 
-- **Focus:** Backend architecture, system logic, OAuth, database design, deployment
+- **Focus:** Backend architecture, system logic, OAuth, database design,real time transactions, deployment, DevOps 
 - **Interests:** Agro-tech, climate-tech, community platforms, clean usable interfaces
 - **Currently learning:** IoT (C++ / Arduino)
 - **Hobbies:** Gaming & Music
