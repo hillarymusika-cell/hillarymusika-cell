@@ -3,7 +3,13 @@
 <div align="center">
   <img src="animation.svg" alt="Welcome" width="100%">
 
-  <img src="file_0000000087648208a7420e3c7e8fbb51.png" alt="Hillary Musika" width="220" style="border-radius: 50%; border: 4px solid #30363d; margin: 20px 0;">
+  <br>
+
+  <img src="file_0000000087648208a7420e3c7e8fbb51.png" 
+       alt="Hillary Musika" 
+       width="180" 
+       height="180" 
+       style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 16px 0;">
 
   <h1>Hillary Musika</h1>
   <p><strong>Full-Stack & IoT Developer</strong> · Python · Flask·Django·C++/C </p>
