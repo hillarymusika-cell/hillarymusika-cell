@@ -41,7 +41,7 @@ I build web & desktop applications with **Python, Flask, and Django**, and I'm c
 
 - **Focus:** Backend architecture, system logic, OAuth, database design,real time transactions, deployment, DevOps 
 - **Interests:** Agro-tech, climate-tech, community platforms, clean usable interfaces
-- **Currently learning:** IoT (C++ / Arduino)
+- **Currently learning:** IoT programming (C++ /ESP32)
 - **Hobbies:** Gaming & Music
 
 ---
