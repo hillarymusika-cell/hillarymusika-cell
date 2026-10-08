@@ -5,11 +5,14 @@
 
   <br>
 
-  <img src="file_0000000087648208a7420e3c7e8fbb51.png" 
-       alt="Hillary Musika" 
-       width="180" 
-       height="180" 
-       style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin: 16px 0;">
+  <!-- Circular Profile Photo -->
+  <div style="position: relative; width: 180px; height: 180px; margin: 20px auto;">
+    <img src="file_0000000087648208a7420e3c7e8fbb51.png" 
+         alt="Hillary Musika" 
+         width="180" 
+         height="180" 
+         style="border-radius: 50%; object-fit: cover; border: 4px solid #30363d; box-shadow: 0 6px 16px rgba(0,0,0,0.35); display: block;">
+  </div>
 
   <h1>Hillary Musika</h1>
   <p><strong>Full-Stack & IoT Developer</strong> · Python · Flask·Django·C++/C </p>
